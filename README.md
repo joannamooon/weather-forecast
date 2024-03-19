@@ -5,3 +5,5 @@ Predicting weather using machine learning by implementing a ridge recession algo
 Future:
 - Find bigger dataset -> current one only spans from 2021 to 2024.
 - Maybe create an app/website that shows prediction of the weather and suggests what clothes to wear
+
+Trying to get better at machine learning algos -> maybe win kaggle contest?? ;)))
